@@ -95,7 +95,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/Users/Ziemowit/Documents/codecademy_projects/teacozy_b/resources/images/img-mission-background.jpg");
+  background-image: url("./resources/images/img-mission-background.jpg");
   background-size: cover;
 }
 
