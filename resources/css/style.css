@@ -114,6 +114,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  background-color: black; /* For some reason image appears instead of black background applied for the whole page if this line is not added. */
 }
 
 .sectionname {
