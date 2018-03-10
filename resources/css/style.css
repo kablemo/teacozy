@@ -95,7 +95,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  background-image: url("./resources/images/img-mission-background.jpg");
   background-size: cover;
 }
 
@@ -114,7 +114,6 @@ footer {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
 }
 
 .sectionname {
