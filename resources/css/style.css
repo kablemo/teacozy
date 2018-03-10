@@ -50,6 +50,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 998;
 }
 
 .navigation {
@@ -58,6 +59,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  z-index: 999;
 }
 
 .logo {
